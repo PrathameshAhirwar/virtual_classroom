@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "hashed_password",
+      "enrollmentDate": "2024-09-15"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "hashed_password",
+      "enrollmentDate": "2024-09-16"
+    },
+    {
+      "id": "013b",
+      "name": "Prathamesh Ahirwar",
+      "email": "prathameshahirwar2000@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "f5f2",
+      "name": "Rutuja",
+      "email": "rutujazade82@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "04d1",
+      "name": "Prathamesh Ahirwar",
+      "email": "prathameshahirwar2000@gmail.com",
+      "password": "1234567",
+      "courseName": "Javascript"
+    },
+    {
+      "id": "3e15",
+      "name": "Prathamesh Ahirwar",
+      "email": "prathameshahirwar2000@gmail.com",
+      "password": "12",
+      "courseName": "Javascript"
+    }
+  ]
+}
